@@ -1073,7 +1073,7 @@ The lab showcases how organizations build proactive identity security operations
   
 ---
 
-## 🚀 4. Best Practices & Technical Considerations
+## 🚀 Best Practices & Technical Considerations
 
 ---
 
