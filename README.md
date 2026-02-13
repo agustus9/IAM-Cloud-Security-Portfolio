@@ -1055,7 +1055,7 @@ The lab showcases how organizations build proactive identity security operations
 
 ---
 
-## **SailPoint Labs** ## **Coming Soon**
+## **SailPoint Labs** **Coming Soon**
 
 ## 🛠️ Third-Party IAM Solutions
 - **Okta**: Unified identity management and Single Sign-On (SSO), supporting multi-cloud environments and enterprise integrations.
