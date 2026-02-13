@@ -1056,6 +1056,13 @@ The lab showcases how organizations build proactive identity security operations
 ---
 
 ## **SailPoint Labs coming soon...**
+### ✅ Lab 1:Identity Lifecycle Management (Joiner–Mover–Leaver)
+### ✅ Lab 2:Access Certification Campaign Design
+### ✅ Lab 3:Role-Based Access Control (RBAC) and Role Engineering
+### ✅ Lab 4:Segregation of Duties (SoD) Policy Design
+### ✅ Lab 5:Privileged Access Governance Integration
+### ✅ Lab 6:Identity Risk Scoring Model
+### ✅ Lab 7:Access Request and Approval Workflow
 
 ## 🛠️ Third-Party IAM Solutions
 - **Okta**: Unified identity management and Single Sign-On (SSO), supporting multi-cloud environments and enterprise integrations.
